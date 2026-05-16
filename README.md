@@ -7,6 +7,7 @@ Custom Codex pets created by RaphaelXie.
 | Pet | Description | Files |
 | --- | --- | --- |
 | [Cat Quartet](pets/cat-quartet/) | Four chibi cats together: tuxedo, ragdoll, Abyssinian, and Siamese. | `pet.json`, `spritesheet.webp` |
+| [Maodie_V1](pets/maodie-v1/) | A round-headed orange tabby with a warning/shouting failed state and a tiny white paper-roll prop. | `pet.json`, `spritesheet.webp` |
 
 ## Repository Layout
 
@@ -30,6 +31,7 @@ Copy a pet folder into your Codex pets directory:
 ```bash
 mkdir -p ~/.codex/pets
 cp -R pets/cat-quartet ~/.codex/pets/
+cp -R pets/maodie-v1 ~/.codex/pets/
 ```
 
 Then restart or refresh Codex and choose the custom pet.
