@@ -33,6 +33,7 @@ Copy a pet folder into your Codex pets directory:
 mkdir -p ~/.codex/pets
 cp -R pets/cat-quartet ~/.codex/pets/
 cp -R pets/maodie-v1 ~/.codex/pets/
+cp -R pets/aby ~/.codex/pets/
 ```
 
 Then restart or refresh Codex and choose the custom pet.
