@@ -8,6 +8,7 @@ Custom Codex pets created by RaphaelXie.
 | --- | --- | --- |
 | [Cat Quartet](pets/cat-quartet/) | Four chibi cats together: tuxedo, ragdoll, Abyssinian, and Siamese. | `pet.json`, `spritesheet.webp` |
 | [Maodie_V1](pets/maodie-v1/) | A round-headed orange tabby with a warning/shouting failed state and a tiny white paper-roll prop. | `pet.json`, `spritesheet.webp` |
+| [Aby](pets/aby/)  | A Codex custom pet based on a show-grade Abyssinian cat. | `pet.json`, `spritesheet.webp` |
 
 ## Repository Layout
 
