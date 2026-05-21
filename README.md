@@ -30,10 +30,19 @@ pets/
 Copy a pet folder into your Codex pets directory:
 
 ```bash
-mkdir -p ~/.codex/pets
-cp -R pets/cat-quartet ~/.codex/pets/
-cp -R pets/maodie-v1 ~/.codex/pets/
-cp -R pets/aby ~/.codex/pets/
+git clone https://github.com/raphaelxie/codex_pet.git
+cd codex_pet
+
+mkdir -p "$HOME/.codex/pets"
+cp -R pets/aby "$HOME/.codex/pets/"
 ```
+
+To install every pet at once:
+
+```bash
+cp -R pets/cat-quartet pets/maodie-v1 pets/aby "$HOME/.codex/pets/"
+```
+
+
 
 Then restart or refresh Codex and choose the custom pet.
